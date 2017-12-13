@@ -17,7 +17,6 @@ sap.ui.define([
 			});
 		},
 
-
 		press: function(evt) {
 			var oController = this;
 			var i18nModel = new sap.ui.model.resource.ResourceModel({
