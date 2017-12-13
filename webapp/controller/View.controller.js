@@ -9,6 +9,7 @@ sap.ui.define([
 	"use strict";
 	return Controller.extend("zdislabelmanZDISLABELMAN.controller.View", {
 
+
 		onInit: function() {
 			var oView = this.getView();
 			jQuery.sap.delayedCall(500, this, function() {
